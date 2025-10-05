@@ -1,7 +1,7 @@
 ---
 name: Özellik isteği
 about: İstediğiniz özellikleri bize bildirin.
-title: "[İSTEK]"
+title: "[İSTEK] Başlığınızı buraya yazın. Lütfen baştaki [İSTEK] yazısını silmeyin."
 labels: ''
 assignees: ''
 

@@ -1,14 +1,14 @@
 ---
 name: Hata bildirimi
 about: Keşfettiğiniz hataları bize bildirin
-title: "[HATA]"
+title: "[HATA] Başlığınızı buraya yazın. Lütfen baştaki [HATA] yazısını silmeyin."
 labels: ''
 assignees: ''
 
 ---
 
 **Hatayı açıkla**
-Anlaşılabilir şekilde hatayı açıklayın
+Anlaşılabilir şekilde hatayı açıklayın.
 
 **Yeniden oluşturma**
 Hatayı yeniden oluşturabilmemiz için adımlar:
